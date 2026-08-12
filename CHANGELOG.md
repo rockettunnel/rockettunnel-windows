@@ -5,6 +5,26 @@ All notable changes to **RocketTunnel for Windows** are documented here.
 This project adheres to [Semantic Versioning](https://semver.org/). Each entry is
 tagged with its release version and build number (`version#build`).
 
+## 3.0.7 (build 22)
+
+### Added
+
+- **Clear installation errors** — a failed installation now stops with the
+  reason shown and a log file you can send to support, instead of finishing as
+  if it had worked.
+
+### Fixed
+
+- **Stuck on "Connecting"** — a failed connection attempt no longer leaves the
+  app stuck; it returns to Disconnected and tells you what went wrong.
+- **Faster status updates** — connection status now updates immediately instead
+  of lagging behind the actual state.
+- **Reinstalling** — installing over an existing installation no longer fails.
+- **Logs screen** — logs now load reliably instead of showing an empty screen.
+- **Proxy screen** — proxy status and details now refresh instead of showing
+  stale values.
+- **Various UI fixes** — small layout and rendering issues throughout the app.
+
 ## 3.0.6 (build 8)
 
 ### Added
