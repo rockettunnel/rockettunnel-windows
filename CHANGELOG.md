@@ -5,6 +5,14 @@ All notable changes to **RocketTunnel for Windows** are documented here.
 This project adheres to [Semantic Versioning](https://semver.org/). Each entry is
 tagged with its release version and build number (`version#build`).
 
+## 3.0.8 (build 23)
+
+### Added
+
+- **Update suggestion** — the app now checks for newer releases and lets you
+  know when one is available, so you can update without having to check the
+  website yourself.
+
 ## 3.0.7 (build 22)
 
 ### Added
