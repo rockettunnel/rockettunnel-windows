@@ -5,7 +5,7 @@ All notable changes to **RocketTunnel for Windows** are documented here.
 This project adheres to [Semantic Versioning](https://semver.org/). Each entry is
 tagged with its release version and build number (`version#build`).
 
-## 3.1.2 (build XX)
+## 3.1.2 (build 39)
 
 ### Added
 
