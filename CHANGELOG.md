@@ -5,6 +5,22 @@ All notable changes to **RocketTunnel for Windows** are documented here.
 This project adheres to [Semantic Versioning](https://semver.org/). Each entry is
 tagged with its release version and build number (`version#build`).
 
+## 3.1.2 (build XX)
+
+### Added
+
+- **Receive configs from another device** — just like the TV app, Windows can
+  now accept configurations sent from your phone with "Send to Device", so you
+  no longer need to copy links or export files by hand.
+
+### Improved
+
+- **Engine improvements** — better connection reliability and performance.
+
+### Fixed
+
+- **Various bug fixes** — stability and smaller issues throughout the app.
+
 ## 3.0.8 (build 23)
 
 ### Added
